@@ -1,6 +1,8 @@
 ## Добрый день!
 
-Меня зовут Екатерина. Я frontend-разработчик. Закончила курсы по профессии Web-разработчик в Яндекс.Практикум, где изучала HTML, CSS, JavaScript, React и основы бэкенда на Node.js.
+Меня зовут Данилова Екатерина. 
+
+Я frontend-разработчик. Закончила курсы по профессии Web-разработчик в Яндекс.Практикум, где изучала HTML, CSS, JavaScript, React и основы бэкенда на Node.js.
 
 ### Languages and Toolls
 ![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=HTML&logoColor=8A2BE2)
@@ -13,4 +15,4 @@
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=4682B4)](https://t.me/DanilovaKatia)
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DEA2022&show_icons=true&locale=en&layout=compact" alt="DEA2022" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DEA2022&show_icons=true&locale=en&layout=compact" alt="DEA2022" /></p>
